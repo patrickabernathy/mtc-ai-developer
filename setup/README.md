@@ -26,8 +26,10 @@ finished alone — if a step fails, bring it to class and we'll fix it together.
 administrator rights. Windows, Mac, and Linux are all fine — instructions for each are
 below.
 
-**Everything on this page is free.** Every account below has a free tier that covers what we
-do in class. You will not be asked to enter a credit card for any of them.
+**Cost:** GitHub, Vercel, and Neon are free — their free tiers cover everything we do in
+class, and you won't need a credit card. The one exception is the **AI assistant in Step 7**,
+where a paid account is strongly recommended for privacy reasons. Read that section before
+you sign up for anything.
 
 ---
 
@@ -178,17 +180,37 @@ we get into back-end work.
 optimize code is not a side topic here — it runs through every part of the course, along
 with the judgment to know when to trust what it gives you and when to push back.
 
-> ### Which one — and don't pay for anything yet _(TBD)_
+> ### Which one — wait before you subscribe _(TBD)_
 >
-> **The specific tool and plan the class will standardize on is not finalized.** Your
-> instructor will confirm the choice in class before you're asked to sign up for anything
-> paid.
+> **The specific tool the class will standardize on is not finalized.** Your instructor will
+> confirm the choice in class. Don't buy a subscription before then — you'd risk paying for
+> the wrong tool.
 >
-> If you want to get a head start, create a **free** account with any of the major
-> assistants and start getting a feel for it. That time isn't wasted — the skills carry
-> across tools. Just hold off on a subscription until the call is made.
+> If you want a head start, create a free account with any of the major assistants and get a
+> feel for it. That time isn't wasted; the skills carry across tools.
 >
 > _Owner: instructor, to confirm with the class._
+
+### Strongly recommended: pay for the entry tier
+
+Once we've settled on a tool, **get a paid account — even the cheapest one.** The reason is
+privacy, not features.
+
+Free consumer tiers commonly reserve the right to use what you type to train and improve
+their models. Paid tiers generally come with stricter data-handling terms, and business or
+team plans usually go further still. The details differ by provider and they change, so
+**read the current terms for whichever tool you pick** rather than taking anyone's word for
+it — including mine. It's worth ten minutes; knowing what a vendor does with your data is
+part of the job now.
+
+This matters more than it sounds like it should. Over 20 weeks you'll paste a lot into these
+tools, and some of it won't be class code — a work problem, a side project, something from
+an employer. Entry-level paid plans are typically in the $20/month range, and you only need
+it while you're building the habit.
+
+> **Regardless of tier: don't paste in anything you don't own or wouldn't want retained.**
+> Employer code, client data, credentials, or anyone's personal information. That rule
+> doesn't relax on a paid plan.
 
 ### If you already have one
 
@@ -220,7 +242,7 @@ And you should be able to sign in to all four of these in a browser:
 - [ ] GitHub
 - [ ] Vercel
 - [ ] Neon
-- [ ] An AI assistant (free account is fine for now)
+- [ ] An AI assistant (free account is fine until we pick a tool — then see Step 7 on paid tiers)
 
 If any of these fail, revisit the corresponding section — and if it still fails, bring it to
 class. Setup problems are normal, they are not a reflection on you, and debugging one in
