@@ -12,6 +12,7 @@ resources for our class. Bookmark it — things get added here as we go.
 | | |
 |---|---|
 | 🛠️ **[Tools and accounts setup](setup/)** | Everything to install, and the accounts to create. Work through it at your own pace — we also install these together in class. |
+| 🌿 **[Git cheat sheet](resources/git-cheat-sheet.md)** | The commands you'll actually type every night — clone, add, commit, push, branches, and pull requests. Keep it open. |
 
 ---
 
