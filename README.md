@@ -13,6 +13,7 @@ resources for our class. Bookmark it — things get added here as we go.
 |---|---|
 | 🛠️ **[Tools and accounts setup](setup/)** | Everything to install, and the accounts to create. Work through it at your own pace — we also install these together in class. |
 | 🌿 **[Git cheat sheet](resources/git-cheat-sheet.md)** | The commands you'll actually type every night — clone, add, commit, push, branches, and pull requests. Keep it open. |
+| 🎥 **[Video walkthroughs](resources/video-walkthroughs.md)** | Short videos of the Git workflow inside VS Code — clone, commit, push, using the Source Control panel. Watch one when reading about it isn't clicking. |
 | 🏷️ **[HTML tags cheat sheet](resources/html-tags-cheat-sheet.md)** | The tags from Week 3 — headings, text, lists, links, images, tables, and forms. |
 | 🎨 **[CSS selectors cheat sheet](resources/css-selectors-cheat-sheet.md)** | Selectors, the box model, and the properties from Week 3 — where to put a style, and how the cascade decides ties. |
 | ⌨️ **[Windows shortcut cheat sheet](resources/windows-shortcuts-cheat-sheet.md)** | Keyboard shortcuts for Windows, the browser, the terminal, and VS Code. |
