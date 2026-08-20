@@ -6,11 +6,12 @@
   <img src="images/github.svg" alt="GitHub" width="48" height="48">
 </p>
 
-Sometimes watching someone do it once is worth more than reading about it. These are short
-videos of the exact workflow we use in class — Git and GitHub from inside VS Code, using the
-Source Control panel instead of typing commands.
+Sometimes watching someone do it once is worth more than reading about it. Two videos here: a
+short one showing the exact workflow we use in class — Git and GitHub from inside VS Code,
+using the Source Control panel instead of typing commands — and a longer, slower one that
+explains what GitHub itself actually is.
 
-Watch one, then do it yourself on your own repo. Nothing sticks until your own hands are on it.
+Watch, then do it yourself on your own repo. Nothing sticks until your own hands are on it.
 
 ---
 
@@ -30,15 +31,25 @@ if the demo went by too fast.
 
 ---
 
-## The four-minute version
+## Then: GitHub itself
 
-### [How to use Git & GitHub in VS Code — beginners tutorial](https://www.youtube.com/watch?v=1gDkpZ0AjlQ)
+### [How to use GitHub as a beginner (no terminal) — GitHub Desktop tutorial](https://www.youtube.com/watch?v=2SgI1kAczfk)
 
-**Coder Coder** · 4 minutes
+**Coder Coder** · 24 minutes
 
-Same territory, much faster, and very recent. Good for a refresher the night before you need
-it, or when you just want to see the buttons get clicked one more time. It moves quickly — if
-this is your first time seeing any of this, watch the GitHub one above first.
+The video above covers our whole workflow inside VS Code — that one alone is enough to do the
+work. This one is here for the other half of the picture: **GitHub itself.** It's much longer
+and much slower, and it explains the things the short version assumes you already know — what
+a repository actually is, what a commit is, why branches exist, and what a pull request is
+doing when you open one.
+
+If the words are the part tripping you up rather than the buttons, watch this one.
+
+**One thing to know going in:** it demonstrates using **GitHub Desktop**, a separate free app
+from GitHub. We don't use GitHub Desktop in this class and you don't need to install it. Watch
+it for the GitHub half — the website, the vocabulary, the concepts — and ignore the app. Every
+button it clicks in GitHub Desktop has a twin in VS Code's Source Control panel; they sit in
+different places and mean the same thing.
 
 ---
 
